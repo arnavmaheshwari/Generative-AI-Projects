@@ -1,2 +1,0 @@
-openapi_key = "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"
-gemini_key = "AIzaSyBSFFkEBE1MQN2XjhGpcMrkQbR-PLwlEMM"
