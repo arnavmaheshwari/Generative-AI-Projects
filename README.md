@@ -1,4 +1,4 @@
-# Gen-AI Applications Portfolio
+# Generative-AI Applications Portfolio
 
 A comprehensive monorepo showcasing Generative AI capabilities utilizing Google's Gemini LLMs, LangChain, and Streamlit. This repository contains two powerful AI-driven tools: a **News Research Tool** leveraging Retrieval-Augmented Generation (RAG), and a **Retail Store Q&A** application capable of translating natural language directly into Microsoft SQL Server queries.
 
@@ -107,7 +107,7 @@ pip install streamlit langchain-google-genai langchain-community unstructured py
 
 
 3. **Database Setup (Retail Store Tool)**
-Ensure a local Microsoft SQL Server instance is running (`SERVER=DESKTOP-V5VTL7B`).
+Ensure a local Microsoft SQL Server instance is running.
 Create a database named `retail_store` with the tables defined in the schema below.
 4. **Environment Variables**
 Create a `.env` file in the root directory and add your Google API key:
