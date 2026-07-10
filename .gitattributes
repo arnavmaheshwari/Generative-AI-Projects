@@ -1,0 +1,4 @@
+# Notebooks bundle a lot of JSON/output alongside the actual code, which
+# skews GitHub's "Languages" bar toward "Jupyter Notebook" instead of Python.
+# This excludes notebooks from language-detection so the real language shows.
+*.ipynb linguist-generated=true
